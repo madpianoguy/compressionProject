@@ -1,0 +1,1 @@
+A Level Computing project analysing compression ratio's between different compression types.
