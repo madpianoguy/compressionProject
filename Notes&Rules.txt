@@ -1,0 +1,1 @@
+If txt file is not larger than 324Bytes then compressed file is larger than original
